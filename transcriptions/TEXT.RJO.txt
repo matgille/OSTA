@@ -3,9 +3,10 @@
 {RMK: [RJO] Relación verdadera de la jornada de Omagua y Dorado.}
 {RMK: Madrid | Biblioteca Nacional de España | MSS/3191.}
 {RMK: Francisco Gago Jover.}
+{RMK: HSMS-0545-0001: Relación verdadera de la jornada de Omagua y Dorado.}
 [fol. 1r]
 {CB1.
-{RMK: HSMS-0545-0001: Relación verdadera de la jornada de Omagua y Dorado.} {AD. {SYMB: cross.}
+{AD. {SYMB: cross.}
 [^2#Es de la Librería de Don Juan Rodriguez de Salamanca Cerezo.]}
 ¶ Relaçion verdadera de[ ]todo lo que sucçedio e<n>la jornada de
 omagua y dorado q<ue> el Gouernador, Pedro de horsua fue a descubrir por
