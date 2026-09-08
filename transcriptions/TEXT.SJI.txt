@@ -3,9 +3,10 @@
 {RMK: [SJI] Vida de la Madre Juana Inés de la Cruz.}
 {RMK: Madrid | Biblioteca Nacional de España | MSS/18734/5.}
 {RMK: Borja Gama de Cossío.}
+{RMK: HSMS-0467-0001: Vida de la Madre Juana Inés de la Cruz.}
 [fol. 1r]
 {CB1.
-{RMK: HSMS-0467-0001: Vida de la Madre Juana Inés de la Cruz.} Vida
+Vida
 Dela[ ]Madre Juana Ynes dela Cruz Religiosa Professa
 En el convento de San Geronimo dela Ciudad Ymperial de
 Mexico.
