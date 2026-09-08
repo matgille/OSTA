@@ -3,9 +3,10 @@
 {RMK: [VGP] Epitoma rei militaris | Libro de Vegecio de la caballeria y del arte de las batallas.}
 {RMK: París | Bibliothèque nationale de France | Espagnol 295.}
 {RMK: José Manuel Fradejas Rueda.}
+{RMK: HSMS-0461-0001: Libro de Vegecio de la caballería y del arte de las batallas.}
 [fol. 1r]
 {CB1.
-{RMK: HSMS-0461-0001: Libro de Vegecio de la caballería y del arte de las batallas.} {IN12.} COstunbre fue en los tienpos an-
+{IN12.} COstunbre fue en los tienpos an-
 tiguos demandar los prinçi-
 pes & los grandes señor<e>s q<ue> los
 buenos estudios & las buenas ar-
