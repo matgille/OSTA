@@ -680,7 +680,7 @@ desta escripto Justiçia desta manera
 q<ue> se sigue aq<u><<i>>/.}
 [fol. 15r]
 {CB1.
-{=MIN: occupies 7 lines. justiçia}} Parti me de genoua
+{=MIN: {RMK: occupies 7 lines.} justiçia} Parti me de genoua
 & entre en lonbardia
 donde son muchas
 c[']ibdades rricas co<n>uje-
